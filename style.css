@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Lobster;
+  src: url('Lobster-Regular.ttf');
+}
+@font-face {
+  font-family: CourierNew;
+  src: url('CourierNew.ttf');
+}
+body {
+  background: rgb(128, 0, 255)
+}
+p {
+  color: white;
+  font-family: CourierNew
+}
+h1,h3 {
+  color: black;
+  font-family: Lobster
+}
+* {
+  text-align: center
+}
